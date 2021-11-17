@@ -2,8 +2,9 @@
   "name": "sidebar",
   "version": "0.1.0",
   "engines": {
-    "node": "14.x"
-    },
+    "node": "14.17.3",
+    "npm": "6.14.13"
+  },
   "private": true,
   "dependencies": {
     "@hookform/resolvers": "^2.8.2",
